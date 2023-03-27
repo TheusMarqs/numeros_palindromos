@@ -23,4 +23,5 @@ function Calcular() {
    
 
     mostrarResultado.value = resultado;
+    mostrarResultado.style.fontWeight = 'bold';
 }
